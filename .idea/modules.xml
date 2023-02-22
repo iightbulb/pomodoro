@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Amazon-deals/.idea/Amazon-deals.iml" filepath="$PROJECT_DIR$/../Amazon-deals/.idea/Amazon-deals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pong/.idea/Pong.iml" filepath="$PROJECT_DIR$/../Pong/.idea/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../100 movies to watch/.idea/Starting Code - 100 movies to watch start.iml" filepath="$PROJECT_DIR$/../100 movies to watch/.idea/Starting Code - 100 movies to watch start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pomodoro.iml" filepath="$PROJECT_DIR$/.idea/pomodoro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rain_alert/.idea/rain_alert.iml" filepath="$PROJECT_DIR$/../rain_alert/.idea/rain_alert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Final_Projects/watermarking_app/.idea/watermarking_app.iml" filepath="$PROJECT_DIR$/../Final_Projects/watermarking_app/.idea/watermarking_app.iml" />
+    </modules>
+  </component>
+</project>
